@@ -1,6 +1,6 @@
 # TABLE OF INDEX
 
-## 1. LINUX
+## 1. [LINUX}(https://github.com/manishjedii/missingskill-learning/blob/master/Linux.md)
 ---
  ```
 1.1 History of Linux
@@ -29,7 +29,7 @@
 3.11 Code Repo's
 3.12 Infrastructure
 ```
-## 4.[JavaScript](https://github.com/manishjedii/missingskill-learning/tree/master/javascript)
+## 4. [JavaScript](https://github.com/manishjedii/missingskill-learning/tree/master/javascript)
 ---
 ```
 4.1 About JavaScript
