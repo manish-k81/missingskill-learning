@@ -1,6 +1,6 @@
 # TABLE OF INDEX
 
-## 1. [LINUX}(https://github.com/manishjedii/missingskill-learning/blob/master/Linux.md)
+## 1. [LINUX](https://github.com/manishjedii/missingskill-learning/blob/master/Linux.md)
 ---
  ```
 1.1 History of Linux
