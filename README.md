@@ -7,7 +7,7 @@
 1.2 Linux Commands 
 1.3 File System in Linux
 ```
-## 2. Git
+## 2. [Git](https://github.com/manishjedii/missingskill-learning/blob/master/git.md)
 ---
 ```
 2.1 Git Introduction
